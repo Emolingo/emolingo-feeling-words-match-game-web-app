@@ -39,5 +39,5 @@ module.exports = {
         path:      path.join(__dirname, 'webpack_out'),
         filename:  'main.js'
       },
-    mode: 'development'
+    mode: 'production'
   };
