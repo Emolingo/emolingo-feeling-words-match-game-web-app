@@ -1,4 +1,10 @@
-This branch contains example commits for building a multi-widget React front-end app step by step,
-as outlined in the tutorial at http://maratbn.com/blogs/2018/07/02/react-multi-widget/
 
-This branch is being forked-off the branch 'webpack4--preact--package.json'.
+Emolingo Emotion Synonym Match Game Web App
+https://github.com/Emolingo/emolingo-emotion-synonym-match-game-web-app
+
+This game is intended for expanding vocabulary of emotion-describing terms.
+
+The game works by taking 3 random pairs of matching emotion-describing terms,
+and then shuffling the corresponding 6 terms and displaying them to the user.
+The user then has to match the 3 pairs by clicking on each term and then on its
+corresponding peer.
