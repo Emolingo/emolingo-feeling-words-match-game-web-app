@@ -8,3 +8,5 @@ The game works by taking 3 random pairs of matching emotion-describing terms,
 and then shuffling the corresponding 6 terms and displaying them to the user.
 The user then has to match the 3 pairs by clicking on each term and then on its
 corresponding peer.
+
+This is the main development branch.
