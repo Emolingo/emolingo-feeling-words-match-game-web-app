@@ -4,17 +4,11 @@ console.log("JSX entry logic.");
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import ColorSelector from './color_selector.jsx';
-import HelloWidget from './hello_widget.jsx';
-import ListWidget from './list_widget.jsx';
-import TextWidget from './text_widget.jsx';
+import GameBoard from './game_board.jsx';
 
 
 ReactDOM.render(
     <div>
-      <HelloWidget />
-      <TextWidget />
-      <ListWidget />
-      <ColorSelector />
+      <GameBoard />
     </div>,
     document.getElementById('react-app'));
